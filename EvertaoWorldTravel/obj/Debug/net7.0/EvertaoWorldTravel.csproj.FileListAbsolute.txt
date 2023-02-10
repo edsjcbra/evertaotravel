@@ -1,0 +1,17 @@
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\EvertaoWorldTravel.exe
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\EvertaoWorldTravel.deps.json
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\EvertaoWorldTravel.runtimeconfig.json
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\EvertaoWorldTravel.dll
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\EvertaoWorldTravel.pdb
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\bin\Debug\net7.0\RestSharp.dll
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.csproj.AssemblyReference.cache
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.AssemblyInfoInputs.cache
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.AssemblyInfo.cs
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.csproj.CoreCompileInputs.cache
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.csproj.CopyComplete
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.dll
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\refint\EvertaoWorldTravel.dll
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.pdb
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\EvertaoWorldTravel.genruntimeconfig.cache
+C:\Apps\EvertaoWorldTravel\EvertaoWorldTravel\obj\Debug\net7.0\ref\EvertaoWorldTravel.dll
