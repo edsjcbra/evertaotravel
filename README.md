@@ -21,7 +21,7 @@ EvertaoTravel é um Console Application onde o usuário poderá ver as passagens
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: .Net 6.0
 
 ```bash
 # clonar repositório
